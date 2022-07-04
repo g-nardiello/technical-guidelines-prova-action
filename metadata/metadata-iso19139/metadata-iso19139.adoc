@@ -6,7 +6,7 @@
 :toclevels: 4
 :sectnumlevels: 4
 
-image:.\media/image1.png[image,width=107,height=107]
+image:./media/image1.png[image,width=107,height=107]
 **INSPIRE**
 *Infrastructure for Spatial Information in Europe*
 
@@ -75,7 +75,7 @@ This Technical Guidance document relates to the implementation of the requiremen
 
 Implementing this Technical Guidance are designed to maximise the interoperability of INSPIRE services. Technical Guidance documents describe how Member States might implement the Implementing Rules described in a Commission Regulation. The technical provisions and the underlying concepts are often illustrated by use case diagrams and accompanied by examples. Technical Guidance documents may also include non-binding technical recommendations that should be satisfied if a Member State chooses to conform to the Technical Guidance. However, these recommendations have no legally binding effect.
 
-image:.\media/image2.png[TG vs IR,width=600,height=450]
+image:./media/image2.png[TG vs IR,width=600,height=450]
 
 *Figure* *1:* Relationship between the INSPIRE Implementing Rules and the associated Technical Guidance.
 
@@ -718,7 +718,7 @@ The timelines relevant for the provision of discovery metadata are different fro
 
 Figure 2 gives an overview of the dates at which the requirements included in the two Implementing Rules for data sets related to Annex I, II or III have to be metfootnote:[Dates in this figure are accurate at the time of publication. For definitive dates refer to the roadmap published on the INSPIRE website (http://inspire.ec.europa.eu/inspire-roadmap/61).].
 
-image:.\media/image3.png[image,width=563,height=424]
+image:./media/image3.png[image,width=563,height=424]
 
 *Figure* *2:* Illustration of Implementation Roadmap for discovery metadata, metadata for interoperability, and metadata for Invocable Spatial Data Services.
 
@@ -743,7 +743,7 @@ SDS regulated by [Regulation 1089/2010] are further divided into three different
 
 Figure 3 gives an overview of the different types of spatial data services.
 
-image:.\media/image4.png[image,width=563,height=307]
+image:./media/image4.png[image,width=563,height=307]
 
 *Figure* *3*: Spatial data services in the context of INSPIRE and their relationships to different types and categories of services. * Discovery Services also take the role as making it possible to invoke a service. [TG SDS]
 
@@ -827,7 +827,7 @@ Conformance Class 7: INSPIRE Harmonised Spatial Data Services metadata (section 
 
 The indention of the above list indicates the requirement inclusion hierarchy between Conformance Classes: A Conformance Class intended as sub-element in the list also includes all the TG Requirements of the parent level Conformance Classes. Section 2 contains TG Requirements and Recommendations describing metadata elements that shall be used in the same way in more than one of the mentioned Conformance Classes.
 
-image:.\media/image5.png[image,width=604,height=344]
+image:./media/image5.png[image,width=604,height=344]
 
 *Figure* *4*: Structure of the conformance classes in this Technical Guidance document.
 
@@ -6234,9 +6234,9 @@ Many of these theme-specific metadata consider details of particular INSPIRE ann
 
 The tables below gives an overview of the INSPIRE theme-specific metadata in combination with the INSPIRE annex themes they are recommended for.
 
-image:.\media/image6.png[image,width=792,height=579]
+image:./media/image6.png[image,width=792,height=579]
 
-image:.\media/image7.png[image,width=792,height=587]
+image:./media/image7.png[image,width=792,height=587]
 
 ==== Maintenance information
 
