@@ -11,7 +11,7 @@ image:.\media/image1.png[image,width=107,height=107]
 *Infrastructure for Spatial Information in Europe*
 
 [discrete]
-= Technical Guidance for the implementation of INSPIRE dataset and service metadata based on ISO/TS 19139:2007
+= TEST - Technical Guidance for the implementation of INSPIRE dataset and service metadata based on ISO/TS 19139:2007
 
 [width="100%",cols="24%,76%",]
 |===
