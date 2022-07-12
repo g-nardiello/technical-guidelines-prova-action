@@ -60,10 +60,12 @@ image:./media/image1.jpeg[width=108,height=108] **INSPIRE** *Infrastructure for 
 |*Relation* |Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services
 |===
 
+<<<
 [discrete]
 == TABLE OF CONTENTS
 toc::[]
 
+<<<
 == Acknowledgements
 
 Many individuals and organisations have contributed to the development of these Guidelines.
@@ -94,6 +96,7 @@ E-mail: mailto:vanda.lima@jrc.ec.europa.eu[ioannis.kanellopoulos@jrc.ec.europa.e
 http://ec.europa.eu/dgs/jrc/
 http://inspire.jrc.ec.europa.eu/
 
+<<<
 == Foreword
 
 Directive 2007/2/EC of the European Parliament and of the Council [*Directive 2007/2/EC*], adopted on 14 March 2007 aims at establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) for environmental policies, or policies and activities that have an impact on the environment. INSPIRE will make available relevant, harmonised and quality geographic information to support the formulation, implementation, monitoring and evaluation of policies and activities, which have a direct or indirect impact on the environment.
@@ -136,6 +139,7 @@ This Technical Guidance concerns the INSPIRE View Services. The Technical Guidan
 
 Neither the European Commission nor any person acting on behalf of the Commission is responsible for the use, which might be made of this publication.
 
+<<<
 == Revision History
 
 [align=center,width="100%",cols="16%,10%,20%,54%",options="header",]
@@ -204,7 +208,7 @@ to xmlns:inspire_vs="http://inspire.ec.europa.eu/schemas/inspire_vs/1.0"
 |===
 
 :sectnums:
-
+<<<
 == Introduction
 
 INSPIRE View Services allow users and computer programs to view spatial datasets. This document specifies Technical Guidance for Member States to implement INSPIRE View Services as mandated by the Regulation on INSPIRE Network Services [*INS NS*, Annex III].
@@ -228,6 +232,7 @@ While the recommended approach to implement INSPIRE view services is the [*ISO 1
 
 This is the initial version of the Technical Guidance document and it has been validated and tested in collaboration with the Initial Operating Capability Task Force. It may be used by the Member States for the initial implementation of the INSPIRE View Services.
 
+<<<
 == Normative references
 
 This technical guidance incorporates, by dated or undated references, provisions from other publications. For dated references, subsequent amendments to or revisions of any of these publications apply to this guide only when incorporated in it by amendment or revision. For undated references, the latest edition of the publication referred to applies (including amendments).
