@@ -570,20 +570,20 @@ In accordance with the ISO rules for drafting, the following verbal forms shall 
 * “should” / “should not”: a recommendation, but an alternative approach may be chosen for a specific case if there are reasons to do so
 * “may” / “need not”: a permission
 
-Requirements and recommendations notation
+=== Requirements and recommendations notation
 
 Requirements and the recommendations for INSPIRE Metadata Implementing Rules within this specification are highlighted and numbered as shown below:
 
 [IMPORTANT]
 ====
-*TG Requirement #.#: metadata/2.0/req/<conformance-class-id>/<requirement-id>*
+*TG Requirement \#.#: metadata/2.0/req/<conformance-class-id>/<requirement-id>*
 
 Technical Guidelines Requirements are shown using this style
 ====
 
 [TIP]
 ====
-*TG Recommendation #.#: metadata/2.0/rec/<conformance-class-id>/<requirement-id>*
+*TG Recommendation \#.#: metadata/2.0/rec/<conformance-class-id>/<requirement-id>*
 
 Technical Guidelines Recommendations are shown using this style.
 ====
