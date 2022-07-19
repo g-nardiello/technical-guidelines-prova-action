@@ -44,6 +44,7 @@ jobs:
         uses: nards-it/asciidoc-pdf-converter-action@v0.1.3
         with:
           # working_branch: main_release # branch to commit pdf
+          find_params: -maxdepth 5 -not -path "./docx-asciidoc-conversion/*"
           asciidoctor_params: --attribute=nofooter
           # adoc_file_ext: .ascii # default is .adoc
           # pre_build:
