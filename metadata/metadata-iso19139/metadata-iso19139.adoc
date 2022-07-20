@@ -37,8 +37,8 @@ http://inspire.ec.europa.eu/id/document/tg/metadata-iso19139/2.1.0 (this version
 <<<
 
 == Table of Contents
-toc::[]
 :toc: left
+toc::[]
 
 == Acknowledgements
 Many individuals and organisations have contributed to the development of these Guidelines.
